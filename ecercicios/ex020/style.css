@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+/* id = # usar em 1 elemento */
+/* class = . usar emmais de 1 elemento */
+
+body {
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h1 {
+    color: blue;
+}
+#principal {
+    text-align: center;
+}
+h2{
+    color: brown;
+}
+ 
+.oi {
+    color: darkolivegreen;
+}
